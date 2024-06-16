@@ -1,2 +1,2 @@
-matplotlib==3.4.2
+matplotlib 
 python-docx==0.8.11
